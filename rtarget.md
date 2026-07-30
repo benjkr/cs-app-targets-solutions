@@ -1,5 +1,8 @@
 # rtarget
 This target enforces the user to use Return Oriented Programming.
+
+*reference*: [https://csapp.cs.cmu.edu/3e/attacklab.pdf](https://csapp.cs.cmu.edu/3e/attacklab.pdf)
+
 > Every 0x000000000000000 formatted number in this page is a gadget pointer found specificaly in my binary.
 
 

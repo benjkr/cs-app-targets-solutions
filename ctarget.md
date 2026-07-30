@@ -1,5 +1,6 @@
 # ctarget
 This target allows the user to use Code Injection.
+*reference*: [https://csapp.cs.cmu.edu/3e/bomblab.pdf](https://csapp.cs.cmu.edu/3e/bomblab.pdf)
 
 # touch1
 This is an easy phase that only includes overriding the return address to call touch1() directly. The complete gadget chain is as follows:
